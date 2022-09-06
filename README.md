@@ -14,6 +14,7 @@ Sequencial model allows to create model layer by layer. for sequencial modelling
 ![image](https://user-images.githubusercontent.com/107994772/188714495-a95f1636-37c7-4485-b135-49ee919265d0.png)
 
 Finding accuracy and precision values of trained model with an epoch of 35. Plotting training vs Validation loss and also training vs validation accuracy
+
 ![image](https://user-images.githubusercontent.com/107994772/188714082-45001373-10ba-4ae6-9020-d6619b9f6364.png)
 
 # OUTPUT
