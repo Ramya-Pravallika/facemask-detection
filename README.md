@@ -11,5 +11,7 @@ Training the dataset using Imagedatagenerator and train data generator with batc
 # sequential modelling using convolutional 2D layers and maxpool layers with same padding and activation as relu
 Sequencial model allows to create model layer by layer. for sequencial modelling we need residual connection. This modelling can be done by using Convolutional 2D layers and maxpool layers because these layers can do sharing and they had multiple inputs and outputs.
 Finding accuracy and precision values of trained model with an epoch of 35. Plotting training vs Validation loss and also training vs validation accuracy
+![image](https://user-images.githubusercontent.com/107994772/188714082-45001373-10ba-4ae6-9020-d6619b9f6364.png)
+
 # OUTPUT
 finally an output image is displayed stating that the person is wearing a mask or not
