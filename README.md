@@ -19,3 +19,5 @@ Finding accuracy and precision values of trained model with an epoch of 35. Plot
 
 # OUTPUT
 finally an output image is displayed stating that the person is wearing a mask or not
+![image](https://user-images.githubusercontent.com/107994772/188715418-e80ae2db-615e-47af-a0a6-d3f9ed114825.png)
+![image](https://user-images.githubusercontent.com/107994772/188715508-5ee422a1-61ae-448e-bbf1-99db9b076f55.png)
